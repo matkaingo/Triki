@@ -1,6 +1,0 @@
-include ':app'
-<<<<<<< HEAD
-rootProject.name = "Triqui"
-=======
-rootProject.name = "Triki"
->>>>>>> 8b8fe17a16a6cad622ff5f9674466a4c93132c96
