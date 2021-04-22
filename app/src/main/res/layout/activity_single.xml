@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".SingleActivity">
 
     <TextView
         android:id="@+id/playerOne"
@@ -58,7 +57,7 @@
         android:id="@+id/gameType"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/game_mode"
+        android:text="@string/game_mode2"
         android:textSize="20sp"
         app:layout_constraintTop_toBottomOf="@+id/playerOneScore"
         android:textAlignment="center"
@@ -171,12 +170,7 @@
         android:backgroundTint="#413F43"
         android:textColor="#FFFFFF"
         app:layout_constraintTop_toTopOf="@+id/btn_6"
-        app:layout_constraintLeft_toRightOf="@+id/btn_6"
-
-
-
-
-        />
+        app:layout_constraintLeft_toRightOf="@+id/btn_6"/>
 
     <Button
         android:id="@+id/btn_8"
@@ -200,39 +194,18 @@
         android:textColor="#FFFFFF"
         android:textSize="20sp"
         app:layout_constraintTop_toBottomOf="@+id/btn_6"
-        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintRight_toRightOf="parent"/>
 
-        />
-
-
-
-
-
-
-
-
-
-
-</androidx.constraintlayout.widget.ConstraintLayout>
-=======
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:src="@drawable/splash" />
-
-    <ProgressBar
-        android:id="@+id/progressBar"
-        style="?android:attr/progressBarStyle"
+    <Button
+        android:id="@+id/volver"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="104dp" />
-</RelativeLayout>
->>>>>>> 8b8fe17a16a6cad622ff5f9674466a4c93132c96
+        android:layout_marginTop="32dp"
+        android:onClick="volver"
+        android:text="Volver"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/reset" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

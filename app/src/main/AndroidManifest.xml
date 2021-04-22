@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.triqui">
+=======
+    package="com.example.triki">
+>>>>>>> 8b8fe17a16a6cad622ff5f9674466a4c93132c96
 
     <application
         android:allowBackup="true"
@@ -8,8 +12,18 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.Triqui">
         <activity android:name=".MainActivity">
+=======
+        android:theme="@style/Theme.Triki">
+        <activity android:name=".SingleActivity"></activity>
+        <activity android:name=".ClasicoActivity" />
+        <activity android:name=".MenuActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen">
+>>>>>>> 8b8fe17a16a6cad622ff5f9674466a4c93132c96
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
