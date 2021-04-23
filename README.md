@@ -3,9 +3,7 @@ Triki es una app del popular juego tic tac toe, o como se le conoce en colombia 
 
 ## Tecnologias usadas
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-
-![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 <!-- Actual text -->
