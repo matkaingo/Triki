@@ -16,7 +16,8 @@ Somos dos estudiantes de la universidad Pontificia Bolivariana
 
 Contactanos!
 
-Mateo Gómez Rios [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][1].
+   Mateo Gómez Rios 
+ [![Instagram][1.2]][1] o [![LinkedIn][2.2]][1].
 
 <!-- Icons -->
 
