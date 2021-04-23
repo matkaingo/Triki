@@ -23,7 +23,7 @@ Contactanos!
 
 <!-- Icons -->
 
-[1.2]: https://i.imgur.com/kB0X80W_d.webp?maxwidth=760&fidelity=grand (instagram icon without padding)
+[1.2]: https://i.imgur.com/ykKU68j_d.webp?maxwidth=760&fidelity=grand (instagram icon without padding)
 
 [2.2]: https://i.imgur.com/PXyIkWx_d.webp?maxwidth=760&fidelity=grand (linkdn icon without padding)
 
