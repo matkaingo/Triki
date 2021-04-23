@@ -19,7 +19,11 @@ Contactanos!
 
 ### Mateo Gómez Rios 
    
-Encuentrame en [![Instagram][1.2]][1][![LinkedIn][2.2]][1].
+[![Instagram][1.2]][2][![LinkedIn][2.2]][3].
+
+### Daniel Jesus Castillo
+   
+[![Instagram][1.2]][1][![LinkedIn][2.2]][3].
 
 <!-- Icons -->
 
@@ -31,4 +35,10 @@ Encuentrame en [![Instagram][1.2]][1][![LinkedIn][2.2]][1].
 <!-- Links to your social media accounts -->
 
 [1]: https://www.instagram.com/daniel.castillob/?hl=es-la
+[2]:https://www.instagram.com/mategomezrios/
+[3]:https://www.linkedin.com/in/mateo-g%C3%B3mez-rios-23529a1a9/
 
+
+## Contribuciones
+
+Pull requests son bienvenidas, para hacer cambios grandes porfavor crear primero un issue para discutir el cambio
