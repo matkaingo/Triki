@@ -12,7 +12,7 @@ Triki es una app del popular juego tic tac toe, o como se le conoce en colombia 
 
 Somos dos estudiantes de la universidad pontificia bolivariana
 
-Encuentranos en [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
+Encuentranos en [![instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
