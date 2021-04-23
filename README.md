@@ -22,7 +22,7 @@ Mateo Gómez Rios [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][1].
 
 [1.2]: https://i.imgur.com/FTfZyuk.png (instagram icon without padding)
 
-[2.2]: https://i.imgur.com/Y5mNRZ9_d.webp?maxwidth=760&fidelity=grand (linkdn icon without padding)
+[2.2]: https://i.imgur.com/PXyIkWx_d.webp?maxwidth=760&fidelity=grand (linkdn icon without padding)
 
 
 <!-- Links to your social media accounts -->
