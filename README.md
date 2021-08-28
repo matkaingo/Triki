@@ -36,7 +36,7 @@ Contactanos!
 
 [1]: https://www.instagram.com/daniel.castillob/?hl=es-la
 [2]:https://www.instagram.com/mategomezrios/
-[3]:https://www.linkedin.com/in/mateo-g%C3%B3mez-rios-23529a1a9/
+[3]:https://www.linkedin.com/in/matkaingo/
 
 
 ## Contribuciones
